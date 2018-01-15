@@ -43,7 +43,7 @@ Depression(IV)(numeric)
 Measured with Beck self-report depression scale.
 
 
-```{r }
+```{r cars}
 summary(Ginzberg)
 ```
 
